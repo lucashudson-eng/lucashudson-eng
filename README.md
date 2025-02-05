@@ -6,7 +6,7 @@
 - 👷‍♂️ I am currently graduating in electrical engineering at UFJF
 - 🤖 In my spare time, I usually do projects with Arduino and IoT, some are available here
 - ☕ I'm also always studying new programming languages and delving into the ones I already know
-- 📫 How to reach me: lucashudson-eng@gmail.com
+- 📫 How to reach me: lucashudson.eng@gmail.com
 ##
 
 <div dsplay="inline-block">

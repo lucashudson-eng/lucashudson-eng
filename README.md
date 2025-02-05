@@ -6,13 +6,13 @@
 - 👷‍♂️ I am currently graduating in electrical engineering at UFJF
 - 🤖 In my spare time, I usually do projects with Arduino and IoT, some are available here
 - ☕ I'm also always studying new programming languages and delving into the ones I already know
-- 📫 How to reach me: lucashudson2002@gmail.com
+- 📫 How to reach me: lucashudson-eng@gmail.com
 ##
 
 <div dsplay="inline-block">
 <div align="left">
-    <a href="https://github.com/lucashudson2002">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashudson2002&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/lucashudson-eng">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashudson-eng&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="left"><br>
     <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title = "C"/></code>
@@ -32,5 +32,5 @@
 <div>
     <a href="https://www.instagram.com/lucas_hudson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lucas-hudson-mg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://github.com/lucashudson2002"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href = "https://github.com/lucashudson-eng"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>

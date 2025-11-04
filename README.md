@@ -3,8 +3,8 @@
 ### Lucas Dias Hudson 🏐
 ### Hello!! Welcome! 👋
 ##
-- 👷‍♂️ I am currently graduating in electrical engineering at UFJF
-- 🤖 In my spare time, I usually do projects with Arduino and IoT, some are available here
+- 👷‍♂️ I am currently graduating in Electrical Engineering - Robotics and Industrial Automation at UFJF
+- 🤖 In my spare time, I usually do projects with Microcontrollers, IoT, Robotics, 3D Printer, some are available here
 - ☕ I'm also always studying new programming languages and delving into the ones I already know
 - 📫 How to reach me: lucashudson.eng@gmail.com
 ##
@@ -30,7 +30,7 @@
 ##
 
 <div>
-    <a href="https://www.instagram.com/lucas_hudson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-hudson-eng" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://github.com/lucashudson-eng"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/lucas_hudson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/lucashudson-eng/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" target="_blank"></a>
+    <a href = "https://github.com/lucashudson-eng"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" target="_blank"></a>
 </div>
